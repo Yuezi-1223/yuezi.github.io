@@ -80,7 +80,18 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
     <div id="content">
 <div style="margin-bottom: 16px;">As always.</div>
 <nav class="SideNav border">
-
+<a class="SideNav-item d-flex flex-items-center flex-justify-between" href="post/Study%20Note%20-%20Ethnic%20Divisions%20and%20Segregation%2C%20Harvard%202023.html">
+    <div class="d-flex flex-items-center">
+        <svg class="SideNav-icon octicon" style="witdh:16px;height:16px"><path class="svgTop0" d=""></path>
+        </svg>
+        <span class="listTitle">Study Note | Ethnic Divisions and Segregation, Harvard 2023</span>
+    </div>
+    <div class="listLabels">
+        
+        <span class="Label LabelName" style="background-color:#E99695"><object><a style="color:#fff" href="tag.html#学术">学术</a></object></span>
+        <span class="Label LabelTime" style="background-color:#bc4c00">2024-07-20</span>
+    </div>
+</a>
 </nav>
 </div>
     <div id="footer"><div id="footer1">Copyright © <span id="copyrightYear"></span> <a href="https://Yuezi-1223.github.io/yuezi.github.io">悦子yuezi的博客</a></div>
@@ -92,8 +103,8 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 var now=new Date();
 document.getElementById("copyrightYear").innerHTML=now.getFullYear();
 
-if("07/20/2023"!=""){
-    var startSite=new Date("07/20/2023");
+if("07/20/2024"!=""){
+    var startSite=new Date("07/20/2024");
     var diff=now.getTime()-startSite.getTime();
     var diffDay=Math.floor(diff/(1000*60*60*24));
     document.getElementById("runday").innerHTML="网站运行"+diffDay+"天"+" • ";
