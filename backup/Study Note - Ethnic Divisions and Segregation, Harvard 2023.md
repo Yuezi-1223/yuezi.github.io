@@ -115,7 +115,7 @@ _Issue Date: 2024/07/20_
 - The phenomenon of individuals or groups **creating, maintaining, adjusting, or breaking through** various boundaries in society, such as ethnic, cultural, social, etc., **to shape identity, group relationships, and social interactions**.
 - Ethnic categories may **expand or contract** (a focal topic in ethnic studies) due to boundary work.
 > [!IMPORTANT]
-> _Wimmer_: People have repertoires of identities to chose from. Their choices may change when institutional incentives change. So, repertories ≠ situational ethnicity.
+> _Wimmer_: People have repertoires of identities to chose from. Their choices may change when institutional incentives change. So, **repertories ≠ situational ethnicity**.
 
 ## Components of Boundary Work
 - **Type of boundary**
@@ -135,13 +135,13 @@ _Issue Date: 2024/07/20_
 -  Individuals or groups actively choosing to emphasize or express a specific ethnic identity in a particular context. 
 - This identity is determined by the current social environment, social situations, or specific contexts, and may change due to different situations.
 > [!IMPORTANT]
-> Individuals or groups **selectively emphasize or conceal their ethnic identity** based on **different social contexts** to **adapt to different social needs or express a sense of belonging**. 
+> Individuals or groups selectively emphasize or conceal their ethnic identity based on different social contexts to **adapt to different social needs or express a sense of belonging**. 
 
 ## Impacts of (activated) ethnic identification (self or other) on social interactions
 -  Cognitive schemes of interpretation (_Brubaker：Ethnicity as Cognition_)
 - Affective dispositions (sometimes _hot cognition_)
 - Behavioral tendencies
-- But interactions can also generate shifts in the above (e.g., contact theory)
+- But interactions can also generate shifts in the above _(e.g., contact theory)_
 
 ## Two types of variation in ethnic identification
 - **Temporal** (i.e., the conditions that evoke different degrees and expressions of ethnic identification).
@@ -186,6 +186,7 @@ _Anderson (Imagined Communities, p.6):_ An imagined political community-and imag
 - A fusion of two principles: **state** sovereignty and **national** sovereignty.
 - Nation-state institutions nurture **national sentiments**.
 > For members of the nation, "their" state (which they usually see as their homeland) is the object of love, commitment or yearning.
+
 > [!IMPORTANT]
 > This definition highlights that **the authority of governments** of nation-state is based on the **claim-made inwards** (i.e., the people) and **outwards** (i.e., the international community)-that the government rules in the name of a nation.
 
@@ -220,7 +221,7 @@ _Anderson (Imagined Communities, p.6):_ An imagined political community-and imag
 - Demanding **autonomy** within the state for ethnic groups in their traditional territories.
 - Demanding maintenance and extension of **civil rights**.
 > [!NOTE]
-> Citizenship allows **contradictions** between autonomy and civil rights_(e.g., patriarchal norms)_
+> Citizenship allows **contradictions** between autonomy and civil rights _(e.g., patriarchal norms)_
 
 
 <br/>
@@ -244,7 +245,11 @@ _Anderson (Imagined Communities, p.6):_ An imagined political community-and imag
 ## Ethnic stratification via **Political Arrangements**
 - Ethnic stratification in **colonial and postcolonial** states
 - **Global stratification** (_citizenship as a resource_)
-> There is an unequal distribution of opportunities, privileges, and resources among individuals and groups in different countries or regions. In this context, citizenship is seen as a valuable resource that **grants individuals specific rights, protections, and benefits** based on their country of origin or nationality.
+> There is an unequal distribution of opportunities, privileges, and resources among individuals and groups in different countries or regions. 
+
+> [!NOTE]
+> In this context, citizenship is seen as a valuable resource that **grants individuals specific rights, protections, and benefits** based on their country of origin or nationality.
+
 - **Group discrimination** by state institutions
 - Differential access to certain **jobs**
 - Mechanisms of inclusion/exclusion of **immigrants** based on their ethnicities
