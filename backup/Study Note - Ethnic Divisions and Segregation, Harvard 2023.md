@@ -13,6 +13,9 @@
 - A group’s demand for autonomy in a territory considered to be the group’s homeland 
 - usually a demand for a **sovereign state**
 
+<br/>
+<br/>
+
 
 # Ethnic boundaries and culture
 ## Social constructivist approach to ethnicity
@@ -52,13 +55,13 @@
 - Setting the limits to constructivism
 
 ## Social Boundary and Symbolic Boundary
-### Social Boundary
+### 1. Social Boundary
 - Social boundaries refer to the tangible and observable divisions that exist in the real world, separating and distinguishing different social groups. 
 - These divisions can be based on various factors such as geography, ethnicity, class, religion, or political affiliations. 
 - Social boundaries can influence the distribution of resources, power dynamics, and social interactions among individuals and groups. 
 > [!IMPORTANT]
 > Social boundaries are **objective** and have a **physical** presence, often manifested in institutional structures and societal norms.
-### Symbolic Boundary
+### 2. Symbolic Boundary
 - Symbolic boundaries are conceptual and constructed through cultural and symbolic representations. 
 - They involve the ways in which individuals and groups differentiate themselves and others based on shared meanings, values, and beliefs. 
 - Symbolic boundaries are not necessarily tied to physical or spatial separations; instead, they are rooted in the realm of ideas, language, and cultural practices. 
@@ -67,7 +70,7 @@
 ### Relationsips between Social and Symbolic boundaries
 - Symbolic boundaries can **reinforce or challenge** social boundaries
 > Cultural representations and symbolic markers can strengthen group cohesion and reinforce social boundaries, leading to a sense of "us versus them." Conversely, symbolic boundaries can also be used to challenge and contest existing social boundaries, contributing to social change and transformation.
-- Social boundaries can **be legitimized** through symbolic boundaries
+- 3. Social boundaries can **be legitimized** through symbolic boundaries
 > The way a society conceptualizes and represents different social groups, often through media, language, and cultural practices, can legitimize and perpetuate existing social boundaries, either maintaining or reproducing social inequalities.
 - Social boundaries may **influence the formation** of symbolic boundaries
 > The material conditions and power dynamics associated with social boundaries can shape the ways in which groups construct their symbolic boundaries. For example, oppressed or marginalized groups may use symbolic resistance as a means to challenge the dominant social order.
@@ -88,6 +91,9 @@ Socialization.
 - This does not mean that we should essentialize ethnic or national culture.
 - Ethnic and national groups are sites of struggles over the meanings attached to **a collective identity** (e.g., different beliefs about the group’s history, its core values, etc., sometimes also about symbolic boundaries).
 
+
+<br/>
+<br/>
 
 # Boundary Work and Shifts
 ## _Nagel_: What caused large-scale ethnic switching? What caused the **fluidity**?
@@ -118,6 +124,10 @@ Socialization.
 > membership rule: what is the criterion or threshold for being one of “us”?
 
 
+
+<br/>
+<br/>
+
 # Pan-ethnicity, situational ethnicity, the limit of constructivism
 ## Situational Ethnicity
 -  Individuals or groups actively choosing to emphasize or express a specific ethnic identity in a particular context. 
@@ -141,6 +151,9 @@ Socialization.
 - Sometimes ethnicity is used instrumentally, but that is because it has been **internalized** and is considered **primordial**. 
 - Also, there is a difference between superficial act of signaling and deep act of adopting/embracing an identity.
 - The content of ethnic identity functions as a **filter** through which personal and collective goals are defined and sorted.
+
+<br/>
+<br/>
 
 
 # Managing ethnic diversity
@@ -208,6 +221,10 @@ _Anderson (Imagined Communities, p.6):_ An imagined political community-and imag
 > Citizenship allows **contradictions** between autonomy and civil rights_(e.g., patriarchal norms)_
 
 
+<br/>
+<br/>
+
+
 # Ethic stratification and inequality
 ## What is a **Social Stratification**?
 - **Institutionalized** inequality (including legitimizing ideology)
@@ -229,6 +246,9 @@ _Anderson (Imagined Communities, p.6):_ An imagined political community-and imag
 - **Group discrimination** by state institutions
 - Differential access to certain **jobs**
 - Mechanisms of inclusion/exclusion of **immigrants** based on their ethnicities
+
+<br/>
+<br/>
 
 
 # Assimilation/Integration/Segregation/Incorporation of Immigrant Ethnic minorities
@@ -252,6 +272,9 @@ _Anderson (Imagined Communities, p.6):_ An imagined political community-and imag
 - **Government's assistance** to immigrants improves their children's (and their children's) mobility chances.
 - Sometime **negative stereotypes** persist for generations.
 - Immigrant's decision to join strong ethnic community may affect the **mobility of their offspring**.
+
+<br/>
+<br/>
 
 
 # Ethnic Violence
