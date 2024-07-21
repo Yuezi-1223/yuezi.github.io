@@ -1,3 +1,6 @@
+_Written and Organized by 悦子yuezi_
+_Issue Date: 2024/07/20_
+
 # Basic Definitions
 ## Ethnicity
 - a group identity based on a belief in a **common origin**
@@ -34,11 +37,11 @@
 - These principles contrast with common sensical view of ethnicity (and race and nation).
 
 ## The development of the boundaries approach to ethnicity
-- **Classic cultural anthropology** → Bath → Post Bath
+- **Classic cultural anthropology** → Barth → Post Barth
 > Classic cultural anthropology classified ethnic and racial groups based on supposed objective traits.
 > Classification system reflected power relations imperialism and colonialism)
 
-## _Bath_: Ojective definition of ethnic boundries
+## _Barth_: Ojective definition of ethnic boundries
 - **Relationality**. Ethnic groups are not developed in isolation, but through **interactions** with other groups (key observation: people cross ethnic boundaries!). 
 > [!NOTE]
 > Groups are not defined by their culture, which is not an objective unique identifier (there are in-group differences and there are shared traits with out-groups) and changes over time. Ethnicity is a form of **social organization**.
@@ -48,7 +51,7 @@
 > [!IMPORTANT]
 > There are no objective cultural markers of groups. Instead, people on the ground decide which cultural materials matter for their collective identity.
 
-## Post Bath Research
+## Post Barth Research
 - Greater emphasis on the fluidity of ethnic boundaries.
 - Interest in the links between symbolic boundaries and social boundaries.
 - Situational ethnicity/ethnicity as cognition
