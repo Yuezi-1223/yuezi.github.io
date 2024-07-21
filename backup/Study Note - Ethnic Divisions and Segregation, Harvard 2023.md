@@ -1,4 +1,4 @@
-_Written and Organized by 悦子yuezi_
+_Written & Organized by 悦子yuezi_
 _Issue Date: 2024/07/20_
 
 # Basic Definitions
