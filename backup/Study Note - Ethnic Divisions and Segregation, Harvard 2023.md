@@ -304,6 +304,7 @@ _Anderson (Imagined Communities, p.6):_ An imagined political community-and imag
 > e.g., (a) violence as **externalization of interna tensions**; (b) violence as projection of suppressed traumatic social relationships (for instance, _child-parents or child-teacher_).
 - **Crowd** psychology
 > people become violent during collective action that causes **de-individuation and extasy**
+
 > [!NOTE]
 > Classic arguments are partial explanation that point to possible roots of **people’s motivation** to participate in ethnic violence, but they **cannot explain instances** of ethnic violence.
 
@@ -343,8 +344,10 @@ _Anderson (Imagined Communities, p.6):_ An imagined political community-and imag
 ## How people choose attitudes towards violence?
 - **Rational choice**: Expected benefits/risks
 > Mechanisms: Social control, policing
+
 > [!NOTE]
 > It is possible that rational choice is more typical of specific phases of conflicts (e.g., after escalation or when it gets clearer who is going to win)
+
 - **Symbolic politics**: Participation in violence is emotional and sentimental (especially hatred and rage toward the enemy).
 > Mechanisms: 
 > - People’s tendency to protect their group from symbolic threats or existential threats
