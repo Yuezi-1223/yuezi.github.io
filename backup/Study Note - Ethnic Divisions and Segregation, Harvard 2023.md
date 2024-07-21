@@ -73,7 +73,7 @@ _Issue Date: 2024/07/20_
 ### Relationsips between Social and Symbolic boundaries
 - Symbolic boundaries can **reinforce or challenge** social boundaries
 > Cultural representations and symbolic markers can strengthen group cohesion and reinforce social boundaries, leading to a sense of "us versus them." Conversely, symbolic boundaries can also be used to challenge and contest existing social boundaries, contributing to social change and transformation.
-- 3. Social boundaries can **be legitimized** through symbolic boundaries
+- Social boundaries can **be legitimized** through symbolic boundaries
 > The way a society conceptualizes and represents different social groups, often through media, language, and cultural practices, can legitimize and perpetuate existing social boundaries, either maintaining or reproducing social inequalities.
 - Social boundaries may **influence the formation** of symbolic boundaries
 > The material conditions and power dynamics associated with social boundaries can shape the ways in which groups construct their symbolic boundaries. For example, oppressed or marginalized groups may use symbolic resistance as a means to challenge the dominant social order.
@@ -81,13 +81,12 @@ _Issue Date: 2024/07/20_
 > [!NOTE]
 > What is similar and what is different about the relationships of ethnicity with language and with religion?
 > ### Similar:
-> - Religion sometimes serves as a marker of ethnicity, but the two do not fully overlap. 
-> - Highlighting religious differences is a political processes (e.g., to justify claims for material, political, or symbolic resources)
+> - Religion sometimes serves as a marker of ethnicity, but the two **do not fully overlap**. 
+> - Highlighting religious differences is a political processes _(e.g., to justify claims for material, political, or symbolic resources)_
 > ### Difference:
 > - Sometimes, religion becomes a trans-ethnic or trans-national identity. 
 > - Religions provide materials for thick ethnic (or national) identities: idioms, myths, and symbols that add moral and affective load to group membership.
-> - Religious organizations participate in ethnic (or national) identity construction and 
-Socialization.
+> - Religious organizations participate in ethnic (or national) identity **construction and socialization**.
 
 ## Further viewpoints
 - Culture marks ethnic boundaries, but it also gives content and meaning to **identities** _(“thick identity”)_.
