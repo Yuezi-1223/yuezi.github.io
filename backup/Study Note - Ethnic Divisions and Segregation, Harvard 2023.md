@@ -328,7 +328,7 @@ _Anderson (Imagined Communities, p.6):_ An imagined political community-and imag
 - **Rumors** are a key mechanism of mass mobilization for active or passive support.
 - **Aggressive reaction** by the rival validate negative feelings and sense of righteousness, thus propagate violence
 - Violence converts negative feelings to **positive feelings**
-> solidarity, pride, hope, even euphoria _(Tambiah: Jubilant Destruction”)_
+> solidarity, pride, hope, even euphoria _(Tambiah: Jubilant Destruction)_
 
 ## _Wimmer_: The Political Context of Violent Ethnic Conflicts
 - Statistical association between ethnic violence and **political competition and exclusion**
