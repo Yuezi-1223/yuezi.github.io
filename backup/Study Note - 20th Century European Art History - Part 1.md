@@ -278,7 +278,8 @@ Open Window Collioure 1905
 * Guiding principle for Matisse   
   * Surface tension: a richness and vibrancy of surface through color 
 
-![微信截图_20240906113702](https://github.com/user-attachments/assets/b74edc74-95d0-41e8-a6ba-1a797d80e9bd)
+![微信截图_20240906113702](https://github.com/user-attachments/assets/26ab890d-d4f3-4d94-b838-4e52bf6aad2b)
+
 Bonheur de vivre (Joy of Life) 1905
 
 * No coherent perspective   
@@ -330,11 +331,13 @@ Interior with Eggplants 1911
 * Flat planes of color crowded w decorative details, no sense of depth   
 * A flat patterning \- surface tension
 
-![微信截图_20240906113851](https://github.com/user-attachments/assets/602bf879-280e-4d95-964f-9016193fb11b)
+![微信截图_20240906113851](https://github.com/user-attachments/assets/17764b83-9392-4923-b246-f2d8b9ee4656)
+
 
 Spanish Still Life 1910
 
-![微信截图_20240906113858](https://github.com/user-attachments/assets/e31176aa-e65b-46cd-abf8-ee5e7dacc3d6)
+![微信截图_20240906113858](https://github.com/user-attachments/assets/10d84e02-5941-48e1-a737-7bce8fb4c066)
+
 The Red Studio 1911
 
 * Tradition of artists painting about their studio  
@@ -659,7 +662,7 @@ Robert Delaunay *Simultaneous Windows on the City* 1912
   * Window motif repeated   
   * The rectangular forms are traces of buildings  
 * Cubism as a way of depicting cityscapes   
-* Cubism points to abstraction that ultimately leads to his signature style 👇
+* Cubism points to abstraction that ultimately leads to his signature style
 
 ###### *Simultanism* 
 
