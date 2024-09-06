@@ -1367,5 +1367,5 @@ Der Blaue Reiter 1911-1914
 * Focused on spiritual and symbolic interpretations of art, with Kandinsky as a leading member  
 * unlike Die Brücke, their expressionism took the form of lyrical abstraction.   
 * imbued their art with deep spiritual content  
-* influenced by the Jugendstil group, Cubism, Futurism, and “naive” folk art
+* influenced by the Jugendstil group, Cubism, Futurism, and “**naive**” folk art
 
