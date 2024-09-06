@@ -1,3 +1,11 @@
+_Written & Organized by 悦子yuezi
+Issue Date: 2024/09/06_
+
+<br/>
+
+
+
+
 #### 2/27 Dada
 
 Context: WW1: Culmination of enlightenment rationality itself   
