@@ -16,7 +16,7 @@ developed in France in the 19C. century and is based on the practice of painting
 * Painted scenes that looked fuzzy and unrefined  
 * Used short, quick brush strokes  
 * Key artists: Monet, Degas, Pissarro   
-  * Monet: uses natural pastel hue   
+  * Monet: uses **natural pastel hue**   
 * Motivation: create the impression of a moment (idea comes from realism), focuses on lighting  
 
 **Post Impressionism** 
