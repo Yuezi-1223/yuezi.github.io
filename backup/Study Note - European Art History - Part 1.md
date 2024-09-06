@@ -56,8 +56,6 @@ Picasso:
 - Known as the inventor of cubism   
 - Known for Guernica (anti-war painting in 1937\)
 
-Modern art: why is it ugly LMAO  
-Why would an artist paint like this 
 
 - Picasso skilled at naturalism, creating an image that looks lifelike   
 - An opportunity to think about abstraction   
