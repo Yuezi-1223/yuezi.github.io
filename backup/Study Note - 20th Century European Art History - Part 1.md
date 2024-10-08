@@ -182,9 +182,6 @@ And thinking about class in the contemporary context
 
 ![微信截图_20240906113348](https://github.com/user-attachments/assets/d2824175-d518-4b8f-a4d6-aa94b722a4a3)
 
-
-###### *Cezanne* 
-
 Influential figure for the development of cubism, not totally post impressionist bc approach looks very different from impressionist   
 Breaking open closed form
 
@@ -269,8 +266,7 @@ Woman w a Hat 1905
 ![微信截图_20240906113613](https://github.com/user-attachments/assets/c84abc00-8e4b-4376-a17b-ca822e4d0306)
 
 Open Window Collioure 1905
-
-* Omg so pretty\!\!   
+  
 * Zones of flat colors and thick impasto strokes  
 * Arbitrary colors   
 * Spatial ambiguity, compression of space   
