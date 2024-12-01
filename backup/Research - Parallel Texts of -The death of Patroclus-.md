@@ -210,6 +210,10 @@ What grief, what glory you will take your father!
 A single day brought war and death to you. 
 But see the heaps of enemy dead you leave.
 
+<br/>
+<br/>
+
+
 ### _Bibliography_
 
 The most relevant piece for our session is Ch. 1 of [Barchiesi 2015](https://www.jstor.org/stable/j.ctt7zvkc7) (on JSTOR) ‘THE DEATH OF PALLAS. Intertextuality and Transformation of the Epic Model
