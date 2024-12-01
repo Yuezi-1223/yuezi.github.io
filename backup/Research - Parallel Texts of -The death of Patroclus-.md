@@ -8,6 +8,7 @@ Issue Date: 2024/12/01_
 
 > [!NOTE]
 > By comparing **parallel texts of the same event - The death of Patroclus** in Latin translations from two periods, it can be seen that there are aesthetic differences between individualism and tragedy in the two epics. It discusses the Virgilian paradox, an epic of drama and pathos that goes back to the origins of modern debate on Virgil in the Romantic period, where the supposed **natural primitivism and fresh naivete of Homer** was commonly and unfavourably contrasted with the **more artificial and sophisticated Virgilian epic**. 
+> <br/>
 > It argues that Virgil too sensed from the beginning that the naturalness and noble simplicity of Homer was essentially irrecoverable in the cultural context of the first century BC, but that he had the opportunity to create a Homer for his own times. It also charts the quintessential ambiguity of the Aeneid, both reflecting the **traditionally nationalistic ideology of Roman epic in the steps of Naevius and Ennius**, and **showing an extraordinary empathy with the focalisations and feelings of individual characters**, many of whom represent a point of view at odds with the direction of the nationalistic plot.
 <br/>
 
