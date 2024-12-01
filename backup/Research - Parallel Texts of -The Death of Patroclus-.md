@@ -1,7 +1,7 @@
 # Comparison of English Translations in Homeric and Virgilian Epics
 <br/>
 
-_Orginazed by 悦子yuezi
+_Organized by 悦子yuezi
 Issue Date: 2024/12/01_
 <br/>
 
