@@ -13,6 +13,7 @@ Issue Date: 2024/12/01_
 <br/>
 
 ## The death of Patroclus: Homer, _Iliad_ 16.751–867
+> From ancient Greek into English 
 
 
 IL.16.751   He spoke so, and strode against the [hero](http://homer.library.northwestern.edu/html/enggrk.cgi?id=3383) Kebriones
@@ -137,6 +138,7 @@ IL.16.866   with the [spear](http://homer.library.northwestern.edu/html/enggrk.c
 <br/>
 
 ## The death of Pallas: Virgil, _Aeneid_ 10.439–509
+> From Latin into English
 
 
 Meanwhile the kind nymph sent her brother Turnus 
