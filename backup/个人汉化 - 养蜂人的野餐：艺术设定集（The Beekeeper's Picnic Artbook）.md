@@ -15,8 +15,8 @@ _Issue Date: 2025/01/31_
 
 1. 《养蜂人的野餐：艺术设定集》是 _The Beekeeper's Picnic Artbook_ 的中文翻译，原文本版权完全归属于作者Jabbage所有。
      This work is a Chinese translation of _The Beekeeper's Picnic Artbook_, the original copyright of which belongs entirely to the original author, Jabbage.
-3. 本作的中文译本由本人（悦子yuezi）翻译，并授权游戏发行商本地化技术团队AGS Trados Team保留译文版权。全部译文及翻译记忆库文件**按署名-非商业使用许可协议CC BY-NC- 4.0开放共享**。
-   This work was created by me, and is authorized to AGS Trados Team - the localization technical team of the game publisher, who retains textual copyright of the translation. All translated content and translation memory (TM) files are **openly shared under the Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+3. 本作的中文译本由本人（悦子yuezi）翻译，由本人保留学术研究和发表权，并授权游戏发行商本地化技术团队AGS Trados Team保留语料数据。全部译文及翻译记忆库文件**按署名-非商业使用许可协议CC BY-NC- 4.0开放共享**。
+   This work was created by me. Academic research and publication rights are reserved by me, and I authorize AGS Trados Team, the localization technology team of the game publisher, to keep the corpus data. All translated content and translation memory (TM) files are **openly shared under the Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
 
 <br/>
 
