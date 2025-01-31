@@ -41,7 +41,6 @@ _Issue Date: 2025/01/31_
 > - 译者（Translator）：悦子yuezi  https://yuezi-1223.github.io/yuezi.github.io/
 > - 发行许可（Distribution Allowed by）：Adventure Game Studio UK  https://www.adventuregamestudio.co.uk/
 
-<br/>
 © 2025 AGS. Some rights reserved.
 <br/>
 
