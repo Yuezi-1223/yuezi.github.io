@@ -3,8 +3,13 @@ _Issue Date: 2025/01/31_
 
 # 养蜂人的野餐：艺术设定集（中文翻译）
 
+请完整阅读版权声明与使用规范后，通过**页面末尾的链接**下载文件。
+
 <img width="197" alt="Image" src="https://github.com/user-attachments/assets/9da946dc-9278-49b0-8d6d-cd08ba44aabe" />
-请完整阅读版权声明与使用规范后，通过页面末尾的链接下载文件。
+
+
+<br/>
+
 
 ## 版权声明 | Copyright Statement
 
