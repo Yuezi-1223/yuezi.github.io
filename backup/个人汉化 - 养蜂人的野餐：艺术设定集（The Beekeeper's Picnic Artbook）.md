@@ -3,7 +3,7 @@ _Issue Date: 2025/01/31_
 
 # 养蜂人的野餐：艺术设定集（中文翻译）
 
-请完整阅读版权声明与使用规范后，通过**页面末尾的链接**下载文件。
+请完整阅读版权声明与使用规范后，在**页面末尾**下载文件或进行试阅。
 
 <img width="197" alt="Image" src="https://github.com/user-attachments/assets/9da946dc-9278-49b0-8d6d-cd08ba44aabe" />
 
@@ -56,3 +56,7 @@ _Issue Date: 2025/01/31_
 > 通过**百度网盘**分享的文件：养蜂人的野餐：艺术设定集 @悦子yuezi个人汉化.pdf
 > 链接: https://pan.baidu.com/s/1v4HTkg-icAfH2MmnfdYngA?pwd=j35y 
 > 提取码: j35y
+
+## 部分内容试阅
+
+![Image](https://github.com/user-attachments/assets/b1e4cda3-043d-4aed-aac5-e0cac7e3b00c)
