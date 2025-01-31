@@ -35,11 +35,10 @@ _Issue Date: 2025/01/31_
 4. **转载规范：** 引用或转载需完整标注以下信息
     **Attribution Requirements:** Any sharing or citation must include the following credits in full
 
-> [!IMPORTANT]
-> - 原作名（Original Name）：_The Beekeeper's Picnic Artbook_
-> - 原作者与出处（Original Source）： Jabbage  https://jabbage.itch.io/
-> - 译者（Translator）：悦子yuezi  https://yuezi-1223.github.io/yuezi.github.io/
-> - 发行许可（Distribution Allowed by）：Adventure Game Studio UK  https://www.adventuregamestudio.co.uk/
+- 原作名（Original Name）：_The Beekeeper's Picnic Artbook_
+- 原作者与出处（Original Source）： Jabbage  https://jabbage.itch.io/
+- 译者（Translator）：悦子yuezi  https://yuezi-1223.github.io/yuezi.github.io/
+- 发行许可（Distribution Allowed by）：Adventure Game Studio UK  https://www.adventuregamestudio.co.uk/
 
 © 2025 AGS. Some rights reserved.
 <br/>
@@ -47,7 +46,13 @@ _Issue Date: 2025/01/31_
 
 ## 更新日志 | Update Log
 2025年1月31日：增加版权与使用说明
-2025年2月1日：上传中文译本
+2025年2月1日：上传译文分享链接
 
-<!-- Failed to upload "养蜂人的野餐：艺术设定集 @悦子yuezi个人汉化.pdf" -->
-
+> [!NOTE]
+> 通过**夸克网盘**分享的文件：养蜂人的野餐：艺术设定集 @悦子yuezi个人汉化.pdf
+> 链接：https://pan.quark.cn/s/b53d942bc213
+> 提取码：QZac
+> <br/>
+> 通过**百度网盘**分享的文件：养蜂人的野餐：艺术设定集 @悦子yuezi个人汉化.pdf
+> 链接: https://pan.baidu.com/s/1v4HTkg-icAfH2MmnfdYngA?pwd=j35y 
+> 提取码: j35y
