@@ -5,6 +5,7 @@ _Issue Date: 2025/02/26_
 - 全程15公里，行走约4小时
 - 尽可能不走回头路
 - 参考原文已贴在各经停点旁
+- 使用软件：IOS自带的地图APP
 
 ![Image](https://github.com/user-attachments/assets/13a92c4b-3375-4246-acfd-fbb23b2de936)
 
@@ -18,18 +19,18 @@ _Issue Date: 2025/02/26_
 👇
 **贝克街**
 👇
-**摄政公园**（《黄面人》提到的2小时散步）
+**摄政公园**（《黄面人》提到的2小时散步，_具体路线如下_）
 
 ![Image](https://github.com/user-attachments/assets/46ba1ab1-6b70-442c-b5d1-38056bfbc599)
 
 👇
-**蒙塔古街**（《马斯格雷夫》提到的同居前福的住处）**& 大英博物馆**
+**蒙塔古街**（《马斯格雷夫》提到的同居前福的住处）**& 大英博物馆**（_具体路线如下_）
 
 ![Image](https://github.com/user-attachments/assets/2d9028b1-b6b0-4c4a-ad17-a01634fad1d9)
 
 👇**霍尔本**（《血字》里华生回伦敦后和小斯坦福在这个街区吃了第一顿饭）
 
-👇**考文特市场**（《蓝宝石》里寻找鹅的供货商时途径霍尔本前往考文特）
+👇**考文特市场**（《蓝宝石》里寻找鹅的供货商时途径霍尔本前往考文特，_具体路线如下_）
 
 ![Image](https://github.com/user-attachments/assets/40cd691e-04e1-4765-b642-9fc9a07f10d9)
 
