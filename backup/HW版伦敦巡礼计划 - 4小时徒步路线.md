@@ -1,6 +1,6 @@
 _Designed by 悦子yuezi_
 _Issue Date: 2025/02/26_
-### _Congratulations on the 221st day of my blog!🍻_
+### _🎉Congratulations on the 221st day of my blog!_
 <br/>
 
 
