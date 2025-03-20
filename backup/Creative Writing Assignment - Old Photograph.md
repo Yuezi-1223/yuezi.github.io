@@ -6,6 +6,7 @@ Issue Date: 2025/03/20_
 > **Please note that this work is completely fictional and has no connection to my own life.**
 > This work was originally written in Chinese, and has been drastically reshaped in its translation into English. Therefore, I would like to present it as my first attempt at creative writing in English.
 > Extra Reminder: English is not my first language (it's not even my first foreign language), so please excuse any spelling and grammatical errors that may occur.
+<br/>
 
 
 ## Old Photograph
