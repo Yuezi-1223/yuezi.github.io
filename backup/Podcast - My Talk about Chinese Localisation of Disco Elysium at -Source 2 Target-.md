@@ -9,6 +9,11 @@ Issue Date: 2025/08/03_
 > **_[IMPORTANT!!!] A written copy of this work has been submitted and is protected under copyright; please credit the author appropriately when quoting or referencing any part of it_.**
 <br/>
 
+## My all-achievements screenshot (for showing off 💯 )
+
+<img width="1508" height="696" alt="Image" src="https://github.com/user-attachments/assets/3fe2e785-4aa8-4c81-9fde-5b6e1dcbe6e3" />
+<br/>
+
 ## Introduction 
 　 _Disco Elysium_ is a groundbreaking role-playing game (RPG) developed by an Estonian studio named ZA/UM. Upon release in 2019, the game has caused a sensation by winning multiple industry-recognized and prestigious awards as a debut work of an unknown independent studio, including Best Narrative and Best Role-Playing Game at **The Game Awards (TGA) 2019[1]**. Set in an imaginative war-torn city of Revachol, players assume the role of an amnesiac detective tasked with solving a murder with limited time and various restrictions.
 　On game design, _Disco Elysium_ is widely recognized for its unconventional approach and its exceptional use of language. (Robertson, 2024) Rather than relying on traditional RPG mechanics like combat or leveling through enemies, there are only two core gameplay mechanics: first, manipulating the protagonist to engage in rich and dense dialogues with the game characters and also himself to uncover the truth behind the murder and the whole world-setting; and second, making critical decisions at key plot junctures only via highly randomized results of cyber dice rolls. These designs reflect the game’s strong emphasis on narratology over ludology, with the former seeing games as narratives and representations, the latter focusing on the play action dimensions of games (O’Hagan & Mangiron, 2013).
