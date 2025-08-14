@@ -19,13 +19,28 @@ Issue Date: 2025/08/14_
 
 
 <br/>
-
 <br/>
 <br/>
 <br/>
 <br/>
 
+## pdf下载：
+> [!NOTE]
+> 通过**百度网盘**分享的文件：鎏金之梦.pdf
+> 链接: https://pan.baidu.com/s/1P9-KoqqiMcYYgMG23_iBXw?pwd=3ked
+> 提取码: 3ked
+> <br/>
+> 通过**夸克网盘**分享的文件：鎏金之梦.pdf
+> 链接：https://pan.quark.cn/s/29bd0d1d75b2
+> 提取码：cMHm
+<br/>
 
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 Aug, mein Aug, was sinkst du nieder?
