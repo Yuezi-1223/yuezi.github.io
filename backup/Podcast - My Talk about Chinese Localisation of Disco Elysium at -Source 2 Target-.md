@@ -11,7 +11,8 @@ Issue Date: 2025/08/03_
 
 ## My all-achievements screenshot (for showing off 💯 )
 
-<img width="1508" height="696" alt="Image" src="https://github.com/user-attachments/assets/3fe2e785-4aa8-4c81-9fde-5b6e1dcbe6e3" />
+<img width="1508" height="696" alt="Image" src="https://github.com/user-attachments/assets/d2007570-efad-4c02-a456-671a086e6d13" />
+
 <br/>
 
 ## Introduction 
