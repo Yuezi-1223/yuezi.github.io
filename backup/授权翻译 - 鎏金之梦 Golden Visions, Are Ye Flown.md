@@ -6,20 +6,31 @@ Issue Date: 2025/08/14_
 
 
 
+### 请在阅读版权声明与转载规范后下载文件或进行试阅。
+
+<img width="283" height="397" alt="Image" src="https://github.com/user-attachments/assets/0509ac71-9c3f-4d44-aea4-9ace441f5ebd" />
+
+<br/>
+
 ## 版权声明
+
 1.	本作品开放各种类型的同人二次创作与印刷。
 2.	请勿在任何平台对本作品进行商业性质的传播。
 3.	请勿将本作品用于生成人工智能产出。
 4.	转载需完整标明作者、译者与出处信息。
-
-© 2025 Afoot Games. All rights reserved. 
 <br/>
 
+## **转载规范：** 引用或转载需完整标注以下信息
+_The Beekeeper's Picnic Artbook_
+_养蜂人的野餐：艺术设定集_
+- Steam ：https://store.steampowered.com/app/2248890/The_Beekeepers_Picnic__A_Sherlockian_Adventure/
+- 发行：https://afootgames.co.uk
+- 原作者与出处：Jabbage  https://jabbage.itch.io/
+- 译者：悦子yuezi  uclztwu@ucl.ac.uk
 
-## 更新日志
-2025年8月15日：上传ver1.0分享链接
-2025年8月16日：修订部分内容，更新ver2.0分享链接
 
+© 2025 Afoot Games. All rights reserved.
+<br/>
 
 > [!NOTE]
 > 通过**百度网盘**分享的文件：鎏金之梦.pdf
