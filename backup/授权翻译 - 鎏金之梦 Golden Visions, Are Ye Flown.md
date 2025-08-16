@@ -6,26 +6,21 @@ Issue Date: 2025/08/14_
 
 
 
-## 版权声明：
+## 版权声明
 1.	本作品开放各种类型的同人二次创作与印刷。
 2.	请勿在任何平台对本作品进行商业性质的传播。
 3.	请勿将本作品用于生成人工智能产出。
 4.	转载需完整标明作者、译者与出处信息。
 
 © 2025 Afoot Games. All rights reserved. 
-
-
-
-
-
-
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 
-## pdf下载：
+
+## 更新日志
+2025年8月15日：上传ver1.0分享链接
+2025年8月16日：修订部分内容，更新ver2.0分享链接
+
+
 > [!NOTE]
 > 通过**百度网盘**分享的文件：鎏金之梦.pdf
 > 链接:  https://pan.baidu.com/s/1nZMjHPECe1sDqq51w5SUOA
@@ -37,11 +32,9 @@ Issue Date: 2025/08/14_
 <br/>
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+## 正文内容（无格式版，仅供存档）
+
+
 
 
 Aug, mein Aug, was sinkst du nieder?
