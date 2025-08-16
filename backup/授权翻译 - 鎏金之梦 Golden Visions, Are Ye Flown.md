@@ -11,6 +11,7 @@ Issue Date: 2025/08/14_
 <img width="283" height="397" alt="Image" src="https://github.com/user-attachments/assets/0509ac71-9c3f-4d44-aea4-9ace441f5ebd" />
 
 <br/>
+<br/>
 
 ## 版权声明
 
@@ -21,8 +22,8 @@ Issue Date: 2025/08/14_
 <br/>
 
 ## **转载规范：** 引用或转载需完整标注以下信息
-_The Beekeeper's Picnic Artbook_
-_养蜂人的野餐：艺术设定集_
+_Golden Visions, Are Ye Flown?_
+_鎏金之梦_
 - Steam ：https://store.steampowered.com/app/2248890/The_Beekeepers_Picnic__A_Sherlockian_Adventure/
 - 发行：https://afootgames.co.uk
 - 原作者与出处：Jabbage  https://jabbage.itch.io/
