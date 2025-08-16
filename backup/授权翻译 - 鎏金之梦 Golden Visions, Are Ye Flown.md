@@ -28,12 +28,12 @@ Issue Date: 2025/08/14_
 ## pdf下载：
 > [!NOTE]
 > 通过**百度网盘**分享的文件：鎏金之梦.pdf
-> 链接:  https://pan.baidu.com/s/1Nal_4nhtgtOatj0RuY63Wg?pwd=axi3
-> 提取码: axi3
+> 链接:  https://pan.baidu.com/s/1puadZVbd69FFg_GB9axatA
+> 提取码: drie
 > <br/>
 > 通过**夸克网盘**分享的文件：鎏金之梦.pdf
-> 链接：https://pan.quark.cn/s/b960ec22d331
-> 提取码：JmpT
+> 链接：https://pan.quark.cn/s/b2e6125c01d6
+> 提取码：byja
 <br/>
 
 
